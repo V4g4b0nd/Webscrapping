@@ -1,5 +1,5 @@
 # call function at a particular interval of time and update the changes
-
+import time
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
